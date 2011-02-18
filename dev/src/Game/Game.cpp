@@ -57,7 +57,7 @@ void Game::update() {
 void Game::render() {
 	graphics->clearScreen();	
 
-	//states->getCurrentState()->render(graphics);
+	states->getCurrentState()->render(graphics);
 
 	// Draw FPS
 	std::stringstream fpstr;
