@@ -1,0 +1,246 @@
+TProject Villain
+v7
+r1
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/SDL.framework/Headers/SDL.h
+c000000004ADD32BD0000000000000CA1
+t1256010429
+s3233
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/param.h
+c000000004A73D65300000000000027BE
+t1249105491
+s10174
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004A5C14A7000000000000563E
+t1247548583
+s22078
+
+N/Library/Frameworks/SDL.framework
+c000000004ADD32BD00000000000000CC
+t1256010429
+s204
+
+N/Library/Frameworks/SDL.framework/SDL
+c000000004ADD32BD0000000000156068
+t1256010429
+s1400936
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004D22BC490000000000043330
+t1294122057
+s275248
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/../../../../../../../../../../System/Library/Frameworks/GLUT.framework/GLUT
+c000000004A12475500000000001A2920
+t1242711893
+s1714464
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/../../src/main.cpp
+c000000004D5725810000000000000A4D
+t1297556865
+s2637
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"SDL.h"
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/English.lproj/InfoPlist.strings
+c000000004D5720690000000000000230
+t1297555561
+s560
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/Project_Villain_Prefix.pch
+c000000004D57206900000000000000AF
+t1297555561
+s175
+i"SDL.h"
+i<Cocoa/Cocoa.h>
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/SDLMain.h
+c000000004D5720690000000000000176
+t1297555561
+s374
+i<Cocoa/Cocoa.h>
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/SDLMain.m
+c000000004D5720690000000000002C00
+t1297555561
+s11264
+i"SDL.h"
+i"SDLMain.h"
+i<sys/param.h>
+i<unistd.h>
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/build/Project Villain.build/Release/Project Villain.build/Objects-normal/i386/Project Villain
+t2
+s0
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/build/Project Villain.build/Release/Project Villain.build/Objects-normal/i386/Project Villain.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/build/Project Villain.build/Release/Project Villain.build/Objects-normal/i386/SDLMain.o
+t2
+s0
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/build/Project Villain.build/Release/Project Villain.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/build/Project Villain.build/Release/Project Villain.build/Objects-normal/ppc/Project Villain
+t2
+s0
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/build/Project Villain.build/Release/Project Villain.build/Objects-normal/ppc/Project Villain.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/build/Project Villain.build/Release/Project Villain.build/Objects-normal/ppc/SDLMain.o
+t2
+s0
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/build/Project Villain.build/Release/Project Villain.build/Objects-normal/ppc/main.o
+t2
+s0
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/build/Release/Project Villain.app
+t2
+s0
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/build/Release/Project Villain.app/Contents/Frameworks/SDL.framework
+t2
+s0
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/build/Release/Project Villain.app/Contents/Info.plist
+t2
+s0
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/build/Release/Project Villain.app/Contents/MacOS/Project Villain
+t2
+s0
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/build/Release/Project Villain.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/build/Release/Project Villain.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/rem/Desktop/Project Villain/projects/xcode/main.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/var/folders/u2/u2ibiSIkGCWIDMgNpnE2bE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Villain_Prefix-aeuwnsdarevgfafzhacxfvkwrjck/Project_Villain_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/u2/u2ibiSIkGCWIDMgNpnE2bE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Villain_Prefix-dvrydbqwmjdsuucsjjlggrfcfmvb/Project_Villain_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/u2/u2ibiSIkGCWIDMgNpnE2bE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Villain_Prefix-ejokwndzamsjwsftamkyfparjeru/Project_Villain_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/u2/u2ibiSIkGCWIDMgNpnE2bE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Villain_Prefix-gzfbdarekhhgokfknnwcvftkfvfo/Project_Villain_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c000000004D572069000000000000041B
+t1297555561
+s1051
+
+CCompileC "build/Project Villain.build/Release/Project Villain.build/Objects-normal/i386/SDLMain.o" "/Users/rem/Desktop/Project Villain/projects/xcode/SDLMain.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Project Villain.build/Release/Project Villain.build/Objects-normal/i386/main.o" "/Users/rem/Desktop/Project Villain/projects/xcode/../../src/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Project Villain.build/Release/Project Villain.build/Objects-normal/i386/main.o" "/Users/rem/Desktop/Project Villain/projects/xcode/main.cpp" normal i386 c++ com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Project Villain.build/Release/Project Villain.build/Objects-normal/ppc/SDLMain.o" "/Users/rem/Desktop/Project Villain/projects/xcode/SDLMain.m" normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Project Villain.build/Release/Project Villain.build/Objects-normal/ppc/main.o" "/Users/rem/Desktop/Project Villain/projects/xcode/../../src/main.cpp" normal ppc c++ com.apple.compilers.gcc.4_0
+r0
+
+CCompileC "build/Project Villain.build/Release/Project Villain.build/Objects-normal/ppc/main.o" "/Users/rem/Desktop/Project Villain/projects/xcode/main.cpp" normal ppc c++ com.apple.compilers.gcc.4_0
+r0
+
+CCopyStringsFile "/Users/rem/Desktop/Project Villain/projects/xcode/build/Release/Project Villain.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+r0
+
+CCreateUniversalBinary "/Users/rem/Desktop/Project Villain/projects/xcode/build/Release/Project Villain.app/Contents/MacOS/Project Villain" normal "ppc i386"
+r0
+
+CLd "/Users/rem/Desktop/Project Villain/projects/xcode/build/Project Villain.build/Release/Project Villain.build/Objects-normal/i386/Project Villain" normal i386
+r0
+
+CLd "/Users/rem/Desktop/Project Villain/projects/xcode/build/Project Villain.build/Release/Project Villain.build/Objects-normal/ppc/Project Villain" normal ppc
+r0
+
+CPBXCp "build/Release/Project Villain.app/Contents/Frameworks/SDL.framework" /Library/Frameworks/SDL.framework
+r0
+
+CProcessInfoPlistFile "/Users/rem/Desktop/Project Villain/projects/xcode/build/Release/Project Villain.app/Contents/Info.plist" Info.plist
+r0
+
+CProcessPCH /var/folders/u2/u2ibiSIkGCWIDMgNpnE2bE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Villain_Prefix-aeuwnsdarevgfafzhacxfvkwrjck/Project_Villain_Prefix.pch.gch Project_Villain_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+r0
+
+CProcessPCH /var/folders/u2/u2ibiSIkGCWIDMgNpnE2bE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Villain_Prefix-gzfbdarekhhgokfknnwcvftkfvfo/Project_Villain_Prefix.pch.gch Project_Villain_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_0
+r0
+
+CProcessPCH++ /var/folders/u2/u2ibiSIkGCWIDMgNpnE2bE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Villain_Prefix-dvrydbqwmjdsuucsjjlggrfcfmvb/Project_Villain_Prefix.pch.gch Project_Villain_Prefix.pch normal i386 c++ com.apple.compilers.gcc.4_0
+r0
+
+CProcessPCH++ /var/folders/u2/u2ibiSIkGCWIDMgNpnE2bE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Project_Villain_Prefix-ejokwndzamsjwsftamkyfparjeru/Project_Villain_Prefix.pch.gch Project_Villain_Prefix.pch normal ppc c++ com.apple.compilers.gcc.4_0
+r0
+
+CTouch "/Users/rem/Desktop/Project Villain/projects/xcode/build/Release/Project Villain.app"
+r0
+
